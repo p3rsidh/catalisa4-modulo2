@@ -1,0 +1,357 @@
+Atividade treino
+Faça um algoritmo para fazer café.
+Faça um algoritmo para fritar um ovo.
+Faça um algoritmo para zerar uma fila de banco.
+Faça um algoritmo para guardar livros dentro de uma caixa.
+
+Algoritmo exemplo
+Criar algoritmo de levantar e ir preparar o café da manhã
+Abrir os olhos
+Verificar as horas
+Se estiver na hora de levantar
+Tirar a coberta de cima de si mesma
+Sentar na cama
+Colocar os pés para fora da cama pelo seu lado esquerdo
+Calçar o chinelo
+Levantar da cama
+Andar até a porta do quarto
+Segurar a maçaneta da porta
+Empurrar a maçaneta da porta para baixo 
+Abrir a porta
+Sair do quarto
+Ir até o banheiro
+Abrir a tampa do vaso sanitário
+Abaixar as vestes dos membros inferiores
+Sentar-se no vaso sanitário
+Fazer as necessidades
+Remover um pouco de papel higiênico do rolo
+Limpar as partes intimas
+Abrir a tampa lixeira.
+Jogar o papel usado dentro da lixeira
+Fechar a tampa da lixeira
+Levantar-se
+Vestir a roupa.
+Ir até à pia do banheiro
+Pegar o sabonete
+Abrir a torneira 
+Esfregar o sabonete nas mãos embaixo da água corrente
+Colocar o sabonete na saboneteira da pia
+Enxaguar as mãos embaixo da água corrente.
+Fechar a torneira.
+Pegar a pasta de dente
+Pegar a escova de dente
+Abrir a tampa da pasta de dente
+Colocar um pouco do conteúdo da pasta de dente nas cerdas da escova de dente
+Tampar a pasta de dentes
+Colocar onde pegou
+Abrir ¼ de giro da torneira
+Colocar a parte das cerdas da escova de dente com pasta em baixo da leve corrente de água que sai da torneira por 3 segundos
+Tirar a escova da corrente de água
+Desligar a torneira
+Levar a parte das cerdas da escova de dentes até os dentes
+Fazer a higiene bucal
+Abrir ¼ de giro da torneira
+Enxaguar as cerdas da escova de dentes embaixo da corrente de água.
+Guardar a escova de dentes no local apropriado, onde pegou.
+Secar com a toalha de rosto as mãos e o rosto.
+Ir até à cozinha
+Pegar a garrafa de café
+Abrir a tampa da garrafa de café
+Despejar o conteúdo da garrafa de cafe dentro da pia da cozinha
+Abrir a torneira da cozinha
+Lavar, debaixo da corrente de água, o interior da garrafa de café e a tampa da garrafa de café.
+Fechar a torneira da pia da cozinha
+Colocar a abertura da garrafa de café na saída de água do filtro acoplado a torneira da cozinha
+Abrir a torneira do filtro acoplado na pia da cozinha.
+Verificar se a garrafa encheu.
+Se encheu
+Fechar a torneira do filtro acoplado a torneira da cozinha,
+Se não encheu
+Aguardar até que encha
+Fechar a torneira do filtro acoplado a torneira da cozinha,
+Verificar se a chaleira está limpa
+Se a chaleira está limpa
+Colocar a água da garrafa de café dentro da chaleira
+Colocar a chaleira em uma das trempes do fogão
+Girar o acendedor da respectiva trempe abrindo a saída de gás enquanto aperta o botão de gerar faísca
+Pegar a garrafa de café
+Colocar em cima da pia
+Pegar o suporte do coador de café
+Posicionar o suporte do coador  na garrafa de cafe
+Pegar o coador
+Posicionar o coador de café no suporte do coador de café já acoplado a garrafa de café
+Abrir a porta da geladeira
+Pegar o pote de pó de café
+Fechar a porta da geladeira
+Abrir o pote de pó de café 
+Pegar uma colher de sopa
+Retirar do pote duas colheres de sopa cheias de café, transferindo para dentro do coador de café
+Fechar o pote de pó de café
+Abrir a porta da geladeira
+Guardar o pote de pó de café onde pegou
+Fechar a porta da geladeira
+Esperar a chaleira apitar
+Se a chaleira não apitou
+Esperar apitar
+Se a chaleira apitou
+Girar o acendedor da trempe onde está a chaleira, impossibilitando a saída de gás, apagando o fogo
+pegar a chaleira pelo cabo próprio 
+Despejar gradualmente a água da chaleira no coador de café, sem deixar transbordar, até que acabe a agua da chaleira.
+Se a água da chaleira acabou
+Colocar a chaleira dentro da pia
+Aguardar a água do coador sumir
+Se a água do coador sumiu, acabou de passar para a garrafa.
+Retirar o suporte do coador da garrafa e colocar na pia
+Fechar a garrafa com sua respectiva tampa
+Se a chaleira não estiver limpa
+Abrir a torneira da pia da cozinha
+Lavar a chaleira embaixo da corrente de água da torneira por 90 segundos, limpando toda a área da chaleira.
+Fechar a torneira
+Colocar a água da garrafa de café dentro da chaleira
+Colocar a chaleira em uma das trempes do fogão
+Girar o acendedor da respectiva trempe abrindo a saída de gás enquanto aperta o botão de gerar faísca
+Pegar a garrafa de café
+Colocar em cima da pia
+Pegar o suporte do coador de café
+Posicionar o suporte do coador  na garrafa de cafe
+Pegar o coador
+Posicionar o coador de café no suporte do coador de café já acoplado a garrafa de café
+Abrir a porta da geladeira
+Pegar o pote de pó de café
+Fechar a porta da geladeira
+Abrir o pote de pó de café 
+Pegar uma colher de sopa
+Retirar do pote duas colheres de sopa cheias de café, transferindo para dentro do coador de café
+Fechar o pote de pó de café
+Abrir a porta da geladeira
+Guardar o pote de pó de café onde pegou
+Fechar a porta da geladeira
+Esperar a chaleira apitar
+Se a chaleira não apitou
+Esperar apitar
+Girar o acendedor da trempe onde está a chaleira, impossibilitando a saída de gás, apagando o fogo
+pegar a chaleira pelo cabo próprio 
+Despejar gradualmente a água da chaleira no coador de café, sem deixar transbordar, até que acabe a agua da chaleira.
+Se a água da chaleira acabou
+Colocar a chaleira dentro da pia
+Aguardar a água do coador sumir
+Se a água do coador sumiu, acabou de passar para a garrafa.
+Retirar o suporte do coador da garrafa e colocar na pia
+Fechar a garrafa com sua respectiva tampa
+Se a chaleira apitou
+Girar o acendedor da trempe onde está a chaleira, impossibilitando a saída de gás, apagando o fogo
+pegar a chaleira pelo cabo próprio 
+Despejar gradualmente a água da chaleira no coador de café, sem deixar transbordar, até que acabe a agua da chaleira.
+Se a água da chaleira acabou
+Colocar a chaleira dentro da pia
+Aguardar a água do coador sumir
+Se a água do coador sumiu, acabou de passar para a garrafa.
+Retirar o suporte do coador da garrafa e colocar na pia
+Fechar a garrafa com sua respectiva tampa
+Se não estiver na hora de levantar
+Virar para o outro lado
+Voltar a dormir
+
+
+
+Criar algoritmo de fritar um ovo
+Ir a cozinha
+Verificar se tem ovos
+Se tem ovos
+Pegar um copo pequeno
+Colocar o copo em cima da pia
+Pegar o ovo 
+Bater levemente o ovo na quina da pia para trincar a casca
+Com os polegares, abrir a casca do ovo despejando o conteúdo dentro do copo
+Verificar se o ovo esta em bom estado
+Se o ovo estiver em bom estado
+Pegar uma frigideira 
+Colocar em cima de uma trempe do fogão
+Girar o acendedor da respectiva trempe para liberar a saida de gas, enquanto aperta o gerador de faisca do fogao
+ Colocar o ovo, quebrado anteriormente, dentro da frigideira
+Colocar uma pitada de sal na gema, parte amarela, do ovo e tampar a frigideira por 90 segundos
+Abrir a tampa da frigideira
+Colocar a tampa em cima da pia
+Segurar o cabo da frigideira
+Fazer um movimento com a frigideira de forma a virar o ovo
+Tampar a frigideira por 90 segundos
+Girar o acendedor da respectiva trempe de forma a inibir a saída de gás, apagando o fogo
+Abrir a tampa da frigideira
+Colocar a tampa da frigideira em cima da pia
+Pegar o cabo da frigideira
+Pegar um prato limpo
+Virar o ovo, já frito, no prato
+Se o ovo estiver em mau estado
+Despejar o conteúdo do copo no ralo da pia da cozinha
+Pegar outro ovo
+Bater levemente o ovo na quina da pia para trincar a casca
+Com os polegares, abrir a casca do ovo despejando o conteúdo dentro do copo
+Verificar se o ovo esta em bom estado
+Se o ovo estiver em bom estado
+Pegar uma frigideira 
+Colocar em cima de uma trempe do fogão
+Girar o acendedor da respectiva trempe para liberar a saida de gas, enquanto aperta o gerador de faisca do fogao
+ Colocar o ovo, quebrado anteriormente, dentro da frigideira
+Colocar uma pitada de sal na gema, parte amarela, do ovo e tampar a frigideira por 90 segundos
+Abrir a tampa da frigideira
+Colocar a tampa em cima da pia
+Segurar o cabo da frigideira
+Fazer um movimento com a frigideira de forma a virar o ovo
+Tampar a frigideira por 90 segundos
+Girar o acendedor da respectiva trempe de forma a inibir a saída de gás, apagando o fogo
+Abrir a tampa da frigideira
+Colocar a tampa da frigideira em cima da pia
+Pegar o cabo da frigideira
+Pegar um prato limpo
+Virar o ovo, já frito, no prato
+Se o ovo estiver em mau estado
+Loop infinito
+Se não tem ovos 
+Ir comprar ovos 
+Voltar para cozinha
+Pegar um copo pequeno
+Colocar o copo em cima da pia
+Pegar o ovo 
+Bater levemente o ovo na quina da pia para trincar a casca
+Com os polegares, abrir a casca do ovo despejando o conteúdo dentro do copo
+Verificar se o ovo esta em bom estado
+Se o ovo estiver em bom estado
+Pegar uma frigideira 
+Colocar em cima de uma trempe do fogão
+Girar o acendedor da respectiva trempe para liberar a saida de gas, enquanto aperta o gerador de faisca do fogao
+ Colocar o ovo, quebrado anteriormente, dentro da frigideira
+Colocar uma pitada de sal na gema, parte amarela, do ovo e tampar a frigideira por 90 segundos
+Abrir a tampa da frigideira
+Colocar a tampa em cima da pia
+Segurar o cabo da frigideira
+Fazer um movimento com a frigideira de forma a virar o ovo
+Tampar a frigideira por 90 segundos
+Girar o acendedor da respectiva trempe de forma a inibir a saída de gás, apagando o fogo
+Abrir a tampa da frigideira
+Colocar a tampa da frigideira em cima da pia
+Pegar o cabo da frigideira
+Pegar um prato limpo
+Virar o ovo, já frito, no prato
+Se o ovo estiver em mau estado
+Despejar o conteúdo do copo no ralo da pia da cozinha
+Pegar outro ovo
+Bater levemente o ovo na quina da pia para trincar a casca
+Com os polegares, abrir a casca do ovo despejando o conteúdo dentro do copo
+Verificar se o ovo esta em bom estado
+Se o ovo estiver em bom estado
+Pegar uma frigideira 
+Colocar em cima de uma trempe do fogão
+Girar o acendedor da respectiva trempe para liberar a saida de gas, enquanto aperta o gerador de faisca do fogao
+ Colocar o ovo, quebrado anteriormente, dentro da frigideira
+Colocar uma pitada de sal na gema, parte amarela, do ovo e tampar a frigideira por 90 segundos
+Abrir a tampa da frigideira
+Colocar a tampa em cima da pia
+Segurar o cabo da frigideira
+Fazer um movimento com a frigideira de forma a virar o ovo
+Tampar a frigideira por 90 segundos
+Girar o acendedor da respectiva trempe de forma a inibir a saída de gás, apagando o fogo
+Abrir a tampa da frigideira
+Colocar a tampa da frigideira em cima da pia
+Pegar o cabo da frigideira
+Pegar um prato limpo
+Virar o ovo, já frito, no prato
+Se o ovo estiver em mau estado
+Loop infinito
+
+
+
+Faça um algoritmo para zerar uma fila de banco.
+Abrir banco 
+Posicionar 4 atendentes em 4 bancadas de atendimento
+Se há 5 ou menos cliente
+Abir um balcão de atendimento
+Atender o primeiro cliente da fila
+Resolver solicitação do cliente
+Liberar cliente 
+Se ha clientes na fila
+Receber o próximo primeiro da fila
+Se não ha clientes na fila
+Fechar balcão
+Se ha mais de 5 clientes e (&&) menos de 10 clientes na fila
+Abrir dois balcões de atendimento
+Para cada balcão
+Atender o primeiro cliente da fila
+Resolver solicitação do cliente
+Liberar cliente 
+Se ha clientes na fila
+Receber o próximo primeiro da fila
+Se não ha clientes na fila
+Fechar balcão
+Se ha mais de 10 clientes e (&&) menos de 15 clientes na fila
+Abrir 3 balcões de atendimento
+Para cada balcão
+Atender o primeiro cliente da fila
+Resolver solicitação do cliente
+Liberar cliente 
+Se ha clientes na fila
+Receber o próximo primeiro da fila
+Se não ha clientes na fila
+Fechar balcão
+Se ha mais de 15 clientes na fila
+Abrir todos, os quatro, balcões
+Para cada balcão
+Atender o primeiro cliente da fila
+Resolver solicitação do cliente
+Liberar cliente 
+Se ha clientes na fila
+Receber o próximo primeiro da fila
+Se não ha clientes na fila
+Fechar balcão
+
+
+
+Faça um algoritmo para guardar livros dentro de uma caixa.
+Pegar livros 
+Se a largura do livro for de 10 centímetros ou menos
+Classificar livro como menor
+Se a largura for maior que 10 centímetros e (&&) menor que 20 centímetros
+Classificar livro como médio
+Se a largura for maior que 20 centímetros
+Classificar livro como maior
+Enquanto existem livros fora da caixa
+Pegar caixa
+enquanto cabem livros na caixa, de forma que seja possível fechá-la
+Se tem livros grandes fora da caixa
+Colocar um por um na caixa, organizadamente
+Se não tem livros grandes fora da caixa
+Se tem livros médios fora da caixa
+Colocar um por um na caixa, organizadamente
+Se não tem livros médios fora da caixa
+Se tem livros pequenos fora da caixa
+Colocar um por um na caixa, organizadamente
+Se não tem livros pequenos fora da caixa
+Nao tem mais livros a serem guardados
+Fechar a caixa
+Se não cabem mais livros na caixa 
+Se existem mais caixas
+Pegar caixa
+enquanto cabem livros na caixa, de forma que seja possível fechá-la
+Se tem livros grandes fora da caixa
+Colocar um por um na caixa, organizadamente
+Se não tem livros grandes fora da caixa
+Se tem livros médios fora da caixa
+Colocar um por um na caixa, organizadamente
+Se não tem livros médios fora da caixa
+Se tem livros pequenos fora da caixa
+Colocar um por um na caixa, organizadamente
+Se não tem livros pequenos fora da caixa
+Nao tem mais livros a serem guardados
+Fechar a caixa
+(loop)
+Se não existem mais caixas
+Comprar mais caixas
+Pegar caixa
+enquanto cabem livros na caixa, de forma que seja possível fechá-la
+Se tem livros grandes fora da caixa
+Colocar um por um na caixa, organizadamente
+Se não tem livros grandes fora da caixa
+Se tem livros médios fora da caixa
+Colocar um por um na caixa, organizadamente
+Se não tem livros médios fora da caixa
+Se tem livros pequenos fora da caixa
+Colocar um por um na caixa, organizadamente
